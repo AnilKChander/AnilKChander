@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AnilKChander
-- 👀 I’m interested in Learning anything relevant to the advancement of technology within the financial industry
-- 🌱 I’m currently learning MSc Financial Tehnology at the University of Strathclyde
-- 💞️ I’m looking to collaborate on...
+- 👀 I’m interested in about how mathematical models can be used in Quantative Finance
+- 🌱 I haved studied Accounting & Finance for my Undergraduate degree and financial Technology for my Postgraduate degree
+- 💞️ I will be posting all my Quant Finance projects in the projects tab
 - 📫 How to reach me. email address: anilchander79@gmail.com or my Linkedln:www.linkedin.com/in/anilc98
 
 <!---
